@@ -1,0 +1,13 @@
+{
+    "name": "vetcore/veterinario-mvc",
+    "description": "Software para Gestão de Clínica Veterinária - SAEP 2026",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
